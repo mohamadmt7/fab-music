@@ -1,0 +1,16 @@
+#divbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 97%;
+    background-color: rgb(205, 211, 224);
+    border-radius: 20px;
+    border: 4px solid rgb(77, 106, 119);
+    margin-top: 100px;
+}
+
+
+
+@media (width >= 1920px){
+}

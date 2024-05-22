@@ -1,0 +1,11 @@
+#divtextlogo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width:100%;
+    padding:0 10px;
+}
+#textlogo{  
+    width: 40px;  
+}

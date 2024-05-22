@@ -1,0 +1,22 @@
+#artistheader{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px; 
+    border-radius:15px 15px 0 15px;
+    border:3px solid rgb(205, 211, 224);
+    border-right:none ;
+    
+}
+#artistname{
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    text-shadow:-1px 3px 4px   #000000;
+}
+#artistimage{
+    border-radius: 50%;
+    width: 45px;
+    border:2px  solid rgb(77, 106, 119);
+}

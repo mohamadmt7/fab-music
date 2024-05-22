@@ -1,0 +1,12 @@
+#divhead{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(77, 106, 119);
+    padding: 6px 0px;
+    border-radius: 0 0 20px 20px; 
+}
+#headlogo{  
+    width: 70px;  
+}

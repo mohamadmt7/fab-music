@@ -14,7 +14,7 @@
     box-shadow: 5px 8px 20px 0px  rgb(91, 99, 99); 
     transition:all 0.3s ease-in-out;
     position: relative;
-    text-decoration:none !important;
+    text-decoration:none;
     .text-h{
         z-index: 1;
     }
